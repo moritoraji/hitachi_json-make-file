@@ -1,0 +1,12 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "path": "^0.12.7",
+    "util": "^0.12.4",
+    "xlsx": "^0.17.1"
+  }
+}
