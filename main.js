@@ -9,11 +9,12 @@ const writeFile = util.promisify(fs.writeFile).bind(util);
 const src_file = path.resolve(path.join('xlsx', 'sheet.xlsx')); //エクセルファイル名
 const sheet_name = '2026'; //シート名
 const dest_file = path.resolve(path.join('dest', 'list.json')); //jsonファイル名
+const dest_lp_file = path.resolve(path.join('dest', 'list-lp.json')); //下層用jsonファイル名
 
 // エクセル範囲の設定
 const EXCEL_START_ROW = 2;  // データ開始行
 const EXCEL_START_ROW_INDEX = EXCEL_START_ROW - 1;
-const EXCEL_END_ROW = 44;   // データ終了行
+const EXCEL_END_ROW = 36;   // データ終了行
 const EXCEL_RANGE = `A${EXCEL_START_ROW}:M${EXCEL_END_ROW}`;  // エクセル範囲
 
 const readXLSX = () => {
@@ -49,6 +50,7 @@ const readXLSX = () => {
       const r_link1 = getCellValue(10, r);
       const r_link4 = getCellValue(11, r);
       const r_photo = getCellValue(12, r);
+      const r_entry = getCellValue(13, r);
 
       // リスト形式のデータを取得
       const getListValue = (col) => {
@@ -76,6 +78,7 @@ const readXLSX = () => {
         link2: r_link2,
         link3: r_link3,
         link4: r_link4,
+        entry: r_entry,
       });
     }
 
@@ -112,11 +115,33 @@ const createJSON = async (data) => {
       };
     });
 
-    const json = JSON.stringify(processedData, null, '\t');
+    // list.json も下層用と同じく items 配列でラップする
+    const json = JSON.stringify({ items: processedData }, null, '\t');
     await writeFile(dest_file, json);
-    console.log('JSONファイルの作成に成功しました。');
+    console.log('JSONファイル（list.json）の作成に成功しました。');
   } catch (error) {
-    console.error('JSONファイルの作成に失敗しました。:', error);
+    console.error('JSONファイル（list.json）の作成に失敗しました。:', error);
+    throw error;
+  }
+};
+
+const createLPJSON = async (data) => {
+  try {
+    // 下層用のデータを処理（id, name, photo, entryのみ）
+    const lpData = {
+      items: data.map(item => ({
+        id: item.id,
+        name: item.name,
+        photo: item.photo,
+        entry: item.entry
+      }))
+    };
+
+    const json = JSON.stringify(lpData, null, '\t');
+    await writeFile(dest_lp_file, json);
+    console.log('下層用JSONファイル（list-lp.json）の作成に成功しました。');
+  } catch (error) {
+    console.error('下層用JSONファイル（list-lp.json）の作成に失敗しました:', error);
     throw error;
   }
 };
@@ -126,6 +151,7 @@ const createJSON = async (data) => {
   try {
     const data = readXLSX();
     await createJSON(data);
+    await createLPJSON(data);
   } catch (error) {
     console.error('ファイル処理に失敗しました:', error);
     process.exit(1);
