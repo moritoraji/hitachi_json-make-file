@@ -51,6 +51,7 @@ const readXLSX = () => {
       const r_link4 = getCellValue(11, r);
       const r_photo = getCellValue(12, r);
       const r_entry = getCellValue(13, r);
+      const r_category = getCellValue(14, r);
 
       // リスト形式のデータを取得
       const getListValue = (col) => {
@@ -79,6 +80,7 @@ const readXLSX = () => {
         link3: r_link3,
         link4: r_link4,
         entry: r_entry,
+        category: r_category,
       });
     }
 
@@ -106,8 +108,9 @@ const createJSON = async (data) => {
         }, []);
       };
 
+      const { entry, category, ...rest } = item;
       return {
-        ...item,
+        ...rest,
         syokusyus: splitStrings(item.syokusyus),
         gakubus: splitStrings(item.gakubus),
         bunyas: splitStrings(item.bunyas),
@@ -127,13 +130,14 @@ const createJSON = async (data) => {
 
 const createLPJSON = async (data) => {
   try {
-    // 下層用のデータを処理（id, name, photo, entryのみ）
+    // 下層用のデータを処理
     const lpData = {
       items: data.map(item => ({
         id: item.id,
         name: item.name,
         photo: item.photo,
-        entry: item.entry
+        entry: item.entry,
+        category: item.category
       }))
     };
 
