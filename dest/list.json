@@ -4,17 +4,21 @@
 			"id": "0",
 			"name": "株式会社日立ソリューションズ西日本",
 			"des": "中国･九州地域に根ざしたビジネスを展開するITソリューション企業です。",
-			"pride": "https://www.hitachi-solutions-west.co.jp/",
-			"photo": "-",
+			"photo": "img53.jpg",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"SE",
+				"営業"
 			],
 			"gakubus": [
 				"すべて",
-				"デジタルシステム&サービス"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"テレワーク",
@@ -24,88 +28,27 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hitachi-solutions-west.co.jp/recruit/",
-			"link3": "SE\n営業",
-			"link4": "img53.jpg"
+			"link2": "https://www.hitachi-solutions-west.co.jp/",
+			"link3": "https://www.hitachi-solutions-west.co.jp/recruit/",
+			"link4": "none"
 		},
 		{
 			"id": "1",
 			"name": "株式会社日立ICTビジネスサービス",
 			"des": "日立製作所、日立グループ向けにBPOサービスを展開しており、業務をお預かりする際は、業務分析を行い、効率化・最適化して遂行しています。",
-			"pride": "https://www.hitachi-bs.co.jp/index.html",
-			"photo": "-",
+			"photo": "img04.jpg",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"設計開発",
+				"SE",
+				"保守管理",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"その他"
 			],
 			"gakubus": [
-				"すべて",
-				"デジタルシステム&サービス"
-			],
-			"bunyas": [
-				"すべて",
-				"資格取得バックアップ",
-				"女性役員在籍",
-				"テレワーク",
-				"完全週休2日制",
-				"年間休日120日以上",
-				"フレックスタイム制度",
-				"服装自由",
-				"3年以内離職率10％以下"
-			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "-",
-			"link2": "https://www.hitachi-bs.co.jp/newgraduate/index.html",
-			"link3": "設計開発\nSE\n保守管理\n営業\n経理財務\n資材調達\nその他",
-			"link4": "img04.jpg"
-		},
-		{
-			"id": "2",
-			"name": "株式会社日立システムズエンジニアリングサービス",
-			"des": "システムインテグレーション事業・マネージドサービス事業を通して、幅広い業界のお客様一人ひとりに適したワンストップサービスを提供しています。",
-			"pride": "https://www.hitachi-systems-es.co.jp/",
-			"photo": "-",
-			"syokusyus": [
-				"すべて",
-				"学部不問"
-			],
-			"gakubus": [
-				"すべて",
-				"デジタルシステム&サービス"
-			],
-			"bunyas": [
-				"すべて",
-				"資格取得バックアップ",
-				"テレワーク",
-				"完全週休2日制",
-				"年間休日120日以上",
-				"フレックスタイム制度",
-				"服装自由"
-			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "-",
-			"link2": "https://www.hitachi-systems-es.co.jp/recruit/",
-			"link3": "設計開発\nSE\n保守管理",
-			"link4": "img00.jpg"
-		},
-		{
-			"id": "3",
-			"name": "株式会社日立システムズパワーサービス",
-			"des": "電力業界を中心にシステム開発・保守、運用を担うICT企業です。",
-			"pride": "https://www.hitachi-systems-ps.co.jp/",
-			"photo": "-",
-			"syokusyus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -120,11 +63,92 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"デジタルシステム&サービス"
 			],
+			"kodawaris": [
+				"すべて",
+				"資格取得バックアップ",
+				"女性役員在籍",
+				"テレワーク",
+				"完全週休2日制",
+				"年間休日120日以上",
+				"フレックスタイム制度",
+				"服装自由",
+				"3年以内離職率10％以下"
+			],
+			"link1": "-",
+			"link2": "https://www.hitachi-bs.co.jp/index.html",
+			"link3": "https://www.hitachi-bs.co.jp/newgraduate/index.html",
+			"link4": "none"
+		},
+		{
+			"id": "2",
+			"name": "株式会社日立システムズエンジニアリングサービス",
+			"des": "システムインテグレーション事業・マネージドサービス事業を通して、幅広い業界のお客様一人ひとりに適したワンストップサービスを提供しています。",
+			"photo": "img00.jpg",
+			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"保守管理"
+			],
+			"gakubus": [
+				"すべて",
+				"学部不問"
+			],
 			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
+				"すべて",
+				"資格取得バックアップ",
+				"テレワーク",
+				"完全週休2日制",
+				"年間休日120日以上",
+				"フレックスタイム制度",
+				"服装自由"
+			],
+			"link1": "-",
+			"link2": "https://www.hitachi-systems-es.co.jp/",
+			"link3": "https://www.hitachi-systems-es.co.jp/recruit/",
+			"link4": "none"
+		},
+		{
+			"id": "3",
+			"name": "株式会社日立システムズパワーサービス",
+			"des": "電力業界を中心にシステム開発・保守、運用を担うICT企業です。",
+			"photo": "img17.jpg",
+			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"品質保証",
+				"保守管理",
+				"営業"
+			],
+			"gakubus": [
+				"すべて",
+				"学部不問",
+				"機械工学系",
+				"電気・電子・通信工学系",
+				"情報工学系",
+				"化学系",
+				"物理学系",
+				"数学系",
+				"経営工学系",
+				"土木工学・建築・環境工学系",
+				"エネルギー・資源工学系",
+				"材料工学系",
+				"その他"
+			],
+			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
 				"すべて",
 				"会社紹介動画あり",
 				"テレワーク",
@@ -133,30 +157,34 @@
 				"フレックスタイム制度",
 				"服装自由"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://webseminar.jobtv.mynavi.jp/-site_media/media/lc/qarnqjelhlfraye_24658/1/index.html",
-			"link2": "https://www.hitachi-systems-ps.co.jp/recruiting/index.html",
-			"link3": "設計開発\nSE\n品質保証\n保守管理\n営業",
-			"link4": "img17.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-systems-ps.co.jp/",
+			"link3": "https://www.hitachi-systems-ps.co.jp/recruiting/index.html",
+			"link4": "https://webseminar.jobtv.mynavi.jp/-site_media/media/lc/qarnqjelhlfraye_24658/1/index.html"
 		},
 		{
 			"id": "4",
 			"name": "株式会社日立システムズ",
 			"des": "業界トップクラス＆日立グループの全事業領域にＩＴで貢献する中核企業です。",
-			"pride": "https://www.hitachi-systems.com/index.html",
-			"photo": "-",
+			"photo": "img06.jpg",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"SE",
+				"保守管理",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"人事総務"
 			],
 			"gakubus": [
 				"すべて",
-				"デジタルシステム&サービス"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -170,30 +198,35 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://youtu.be/G41c-Kb5xIY?si=nJ1brOweYpaATZM1",
-			"link2": "https://www.hitachi-systems.com/recruiting/index.html",
-			"link3": "SE\n保守管理\n営業\n経理財務\n資材調達\n人事総務",
-			"link4": "img04.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-systems.com/index.html",
+			"link3": "https://www.hitachi-systems.com/recruiting/index.html",
+			"link4": "https://youtu.be/G41c-Kb5xIY?si=nJ1brOweYpaATZM1"
 		},
 		{
 			"id": "5",
 			"name": "株式会社 日立ソリューションズ・クリエイト",
 			"des": "金融、社会・公共、産業・流通分野において、社会貢献度の高いソリューションを提供しています。",
-			"pride": "https://www.hitachi-solutions-create.co.jp/",
-			"photo": "-",
+			"photo": "img35.png",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"SE",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"人事総務",
+				"知財・法務",
+				"企画"
 			],
 			"gakubus": [
 				"すべて",
-				"デジタルシステム&サービス"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"会社紹介動画あり",
@@ -205,22 +238,23 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hitachi-solutions-create.co.jp/recruit/fresh/index.html",
-			"link3": "SE\n営業\n経理財務\n資材調達\n人事総務\n知財・法務\n企画",
-			"link4": "img35.jpg"
+			"link2": "https://www.hitachi-solutions-create.co.jp/",
+			"link3": "https://www.hitachi-solutions-create.co.jp/recruit/fresh/index.html",
+			"link4": "https://www.youtube.com/watch?v=OAB6zcWItu8"
 		},
 		{
 			"id": "6",
 			"name": "株式会社日立システムズフィールドサービス",
 			"des": "社会インフラを⽀える「縁の下の⼒持ち」として社会に貢献！",
-			"pride": "https://www.hitachi-systems-fs.co.jp/index.html",
-			"photo": "-",
+			"photo": "img55.jpg",
 			"syokusyus": [
+				"すべて",
+				"SE",
+				"保守管理",
+				"営業"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -235,11 +269,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"デジタルシステム&サービス"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"会社紹介動画あり",
@@ -249,30 +283,31 @@
 				"フレックスタイム制度",
 				"服装自由"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.youtube.com/watch?v=TfuPWJ-9K1Y",
-			"link2": "https://www.hitachi-systems-fs.co.jp/corporate/recruit/index.html",
-			"link3": "SE\n保守管理\n営業",
-			"link4": "img55.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-systems-fs.co.jp/index.html",
+			"link3": "https://www.hitachi-systems-fs.co.jp/corporate/recruit/index.html",
+			"link4": "https://www.youtube.com/watch?v=TfuPWJ-9K1Y"
 		},
 		{
 			"id": "7",
 			"name": "株式会社北海道日立システムズ",
 			"des": "北海道を拠点に設計から保守までITに関わるワンストップサービスを提供しています。",
-			"pride": "https://www.hokkaido-hitachi-systems.co.jp/",
-			"photo": "-",
+			"photo": "img54.png",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"SE",
+				"保守管理",
+				"営業"
 			],
 			"gakubus": [
 				"すべて",
-				"デジタルシステム&サービス"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"テレワーク",
@@ -282,30 +317,30 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hokkaido-hitachi-systems.co.jp/corporate_info/recruit/",
-			"link3": "SE\n保守管理\n営業",
-			"link4": "img54.jpg"
+			"link2": "https://www.hokkaido-hitachi-systems.co.jp/",
+			"link3": "https://www.hokkaido-hitachi-systems.co.jp/corporate_info/recruit/",
+			"link4": "none"
 		},
 		{
 			"id": "8",
 			"name": "株式会社日立社会情報サービス",
 			"des": "公共分野のシステム開発を通して社会貢献ができる会社です。開発力、業務運用、公共分野のドメインナレッジに自信があります。",
-			"pride": "https://www.hitachi-sis.co.jp/",
-			"photo": "-",
+			"photo": "img28.jpg",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"SE",
+				"営業"
 			],
 			"gakubus": [
 				"すべて",
-				"デジタルシステム&サービス"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"会社紹介動画あり",
@@ -317,29 +352,72 @@
 				"3年以内離職率10％以下",
 				"スピード内定2週間以内"
 			],
-			"kodawaris": [
-				"すべて"
-			],
-			"link1": "https://youtu.be/JrGPWyMIW78",
-			"link2": "https://www.hitachi-sis.co.jp/recruit/",
-			"link3": "SE\n営業",
-			"link4": "none"
+			"link1": "-",
+			"link2": "https://www.hitachi-sis.co.jp/",
+			"link3": "https://www.hitachi-sis.co.jp/recruit/",
+			"link4": "https://youtu.be/JrGPWyMIW78"
 		},
 		{
 			"id": "9",
-			"name": "日立ターミナルメカトロニクス株式会社",
-			"des": "金融機関向けATMや窓口端末、交通・公共分野の端末、ヘルスケア製品など、メカトロニクス分野で高い製造技術を誇ります。さらに、工場のIoT化による自動化・見える化を推進し、効率化と働きやすさを重視しています。",
-			"pride": "https://www.hitachi-tm.co.jp/",
-			"photo": "-",
+			"name": "日立チャネルソリューションズ株式会社",
+			"des": "日立チャネルソリューションズは、ATMなど金融機関を中心とした機器・システムやサービスを通じて、お客さまの課題解決に貢献しています。センシングやセキュリティ技術を活かしてグローバルに展開、多様な分野の社員が活躍し、信頼性の高い製品・システムを提供しています。社会インフラを支える技術で、安心・安全で持続可能な社会の実現にともに取り組みませんか。",
+			"photo": "img53.png",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"設計開発",
+				"SE",
+				"品質保証",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"生産管理"
 			],
 			"gakubus": [
 				"すべて",
-				"デジタルシステム&サービス"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
+				"すべて",
+				"業界シェアTOPクラス",
+				"資格取得バックアップ",
+				"英語使う機会あり",
+				"会社紹介動画あり",
+				"テレワーク",
+				"完全週休2日制",
+				"年間休日120日以上",
+				"フレックスタイム制度",
+				"服装自由",
+				"3年以内離職率10％以下",
+				"スピード内定2週間以内"
+			],
+			"link1": "-",
+			"link2": "https://www.hitachi-ch.co.jp/",
+			"link3": "https://www.hitachi-ch.co.jp/recruit/index.html",
+			"link4": "https://www.youtube.com/watch?v=FFfivKrPUY8"
+		},
+		{
+			"id": "10",
+			"name": "日立ターミナルメカトロニクス株式会社",
+			"des": "金融機関向けATMや窓口端末、交通・公共分野の端末、ヘルスケア製品など、メカトロニクス分野で高い製造技術を誇ります。さらに、工場のIoT化による自動化・見える化を推進し、効率化と働きやすさを重視しています。",
+			"photo": "img74.jpg",
+			"syokusyus": [
+				"すべて",
+				"生産技術",
+				"生産管理"
+			],
+			"gakubus": [
+				"すべて",
+				"学部不問"
+			],
+			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -352,59 +430,29 @@
 				"3年以内離職率10％以下",
 				"スピード内定2週間以内"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
 			"link2": "https://www.hitachi-tm.co.jp/",
-			"link3": "生産技術\n生産管理",
+			"link3": "https://www.hitachi-tm.co.jp/",
 			"link4": "none"
-		},
-		{
-			"id": "10",
-			"name": "日立チャネルソリューションズ株式会社",
-			"des": "日立チャネルソリューションズは、ATMなど金融機関を中心とした機器・システムやサービスを通じて、お客さまの課題解決に貢献しています。センシングやセキュリティ技術を活かしてグローバルに展開、多様な分野の社員が活躍し、信頼性の高い製品・システムを提供しています。社会インフラを支える技術で、安心・安全で持続可能な社会の実現にともに取り組みませんか。",
-			"pride": "https://www.hitachi-ch.co.jp/",
-			"photo": "-",
-			"syokusyus": [
-				"すべて",
-				"学部不問"
-			],
-			"gakubus": [
-				"すべて",
-				"デジタルシステム&サービス"
-			],
-			"bunyas": [
-				"すべて",
-				"業界シェアTOPクラス",
-				"資格取得バックアップ",
-				"英語使う機会あり",
-				"会社紹介動画あり",
-				"テレワーク",
-				"完全週休2日制",
-				"年間休日120日以上",
-				"フレックスタイム制度",
-				"服装自由",
-				"3年以内離職率10％以下",
-				"スピード内定2週間以内"
-			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.youtube.com/watch?v=FFfivKrPUY8",
-			"link2": "https://www.hitachi-ch.co.jp/recruit/index.html",
-			"link3": "設計開発\nSE\n品質保証\n営業\n経理財務\n資材調達\n生産管理",
-			"link4": "img53.jpg"
 		},
 		{
 			"id": "11",
 			"name": "株式会社日立情報通信エンジニアリング",
 			"des": "確かな技術と豊かな経験を生かし、社会課題解決に貢献します。",
-			"pride": "https://www.hitachi-ite.co.jp/index.html",
-			"photo": "-",
+			"photo": "img44.jpg",
 			"syokusyus": [
+				"すべて",
+				"研究開発",
+				"設計開発",
+				"SE",
+				"品質保証",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"人事総務",
+				"その他"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -419,11 +467,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"デジタルシステム&サービス"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"テレワーク",
@@ -433,22 +481,25 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hitachi-ite.co.jp/recruit/new_employee.html",
-			"link3": "研究開発\n設計開発\nSE\n品質保証\n営業\n経理財務\n資材調達\n人事総務\nその他",
-			"link4": "img44.jpg"
+			"link2": "https://www.hitachi-ite.co.jp/index.html",
+			"link3": "https://www.hitachi-ite.co.jp/recruit/new_employee.html",
+			"link4": "none"
 		},
 		{
 			"id": "12",
 			"name": "株式会社日立ソリューションズ",
 			"des": "確かな技術と先進のITソリューションでお客様や社会課題の解決に貢献。「人財」を大切にする当社で一緒に成長しませんか？",
-			"pride": "https://www.hitachi-solutions.co.jp/",
-			"photo": "-",
+			"photo": "img34.png",
 			"syokusyus": [
+				"すべて",
+				"SE",
+				"品質保証",
+				"営業",
+				"経理財務",
+				"資材調達"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -456,11 +507,11 @@
 				"情報工学系",
 				"数学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"デジタルシステム&サービス"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"会社紹介動画あり",
@@ -471,30 +522,34 @@
 				"フレックスタイム制度",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://youtu.be/XxT26gNSPPw",
-			"link2": "https://www.hitachi-solutions.co.jp/recruit/newgraduates/",
-			"link3": "SE\n品質保証\n営業\n経理財務\n資材調達",
-			"link4": "img34.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-solutions.co.jp/",
+			"link3": "https://www.hitachi-solutions.co.jp/recruit/newgraduates/",
+			"link4": "https://youtu.be/XxT26gNSPPw"
 		},
 		{
 			"id": "13",
 			"name": "株式会社九州日立システムズ",
 			"des": "九州を拠点に設計から保守までのITに関わるワンストップサービスを提供しています。",
-			"pride": "https://www.kyushu-hitachi-systems.co.jp/index.html",
-			"photo": "-",
+			"photo": "img73.jpg",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"SE",
+				"保守管理",
+				"営業",
+				"経理財務",
+				"人事総務",
+				"知財・法務"
 			],
 			"gakubus": [
 				"すべて",
-				"デジタルシステム&サービス"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"会社紹介動画あり",
@@ -504,22 +559,22 @@
 				"フレックスタイム制度",
 				"服装自由"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.kyushu-hitachi-systems.co.jp/recruit/index.html",
-			"link3": "SE\n保守管理\n営業\n経理財務\n人事総務\n知財・法務",
-			"link4": "img73.jpg"
+			"link2": "https://www.kyushu-hitachi-systems.co.jp/index.html",
+			"link3": "https://www.kyushu-hitachi-systems.co.jp/recruit/index.html",
+			"link4": "none"
 		},
 		{
 			"id": "14",
 			"name": "株式会社日立ソリューションズ・テクノロジー",
-			"des": "ソフト×ハードで、自動車、IoT分野で新たな価値や未来を創造。\n最先端のソリューション開発で「超スマート社会」に貢献。",
-			"pride": "https://www.hitachi-solutions-tech.co.jp/",
-			"photo": "-",
+			"des": "ソフト×ハードで、自動車、IoT分野で新たな価値や未来を創造。\r\n最先端のソリューション開発で「超スマート社会」に貢献。",
+			"photo": "img13.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE"
+			],
+			"gakubus": [
 				"すべて",
 				"機械工学系",
 				"電気・電子・通信工学系",
@@ -530,11 +585,11 @@
 				"経営工学系",
 				"材料工学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"デジタルシステム&サービス"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"会社紹介動画あり",
@@ -546,22 +601,30 @@
 				"3年以内離職率10％以下",
 				"スピード内定2週間以内"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hitachi-solutions-tech.co.jp/recruit/newgraduate/",
-			"link3": "設計開発\nSE",
-			"link4": "img13.jpg"
+			"link2": "https://www.hitachi-solutions-tech.co.jp/",
+			"link3": "https://www.hitachi-solutions-tech.co.jp/recruit/newgraduate/",
+			"link4": "none"
 		},
 		{
 			"id": "15",
 			"name": "日立ヴァンタラ株式会社",
 			"des": "グローバルで連携を取りながら最新技術を活用したデータインフラを提供するプロフェッショナル集団",
-			"pride": "https://www.hitachivantara.com/ja-jp/home",
-			"photo": "-",
+			"photo": "img69.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"生産技術",
+				"品質保証",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"生産管理",
+				"知財・法務",
+				"企画"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -576,11 +639,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"デジタルシステム&サービス"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"英語使う機会あり",
@@ -594,30 +657,29 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://webseminar.jobtv.mynavi.jp/-site_media/media/lc/pvpglwkhwhiyblt_24991/2/index.html",
-			"link2": "https://job.mynavi.jp/27/pc/search/corp203209/outline.html?msockid=11ed5e3d05756988193a48f904a86814",
-			"link3": "設計開発\nSE\n生産技術\n品質保証\n営業\n経理財務\n資材調達\n生産管理\n知財・法務\n企画",
-			"link4": "img69.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachivantara.com/ja-jp/home",
+			"link3": "https://job.mynavi.jp/27/pc/search/corp203209/outline.html?msockid=11ed5e3d05756988193a48f904a86814",
+			"link4": "https://webseminar.jobtv.mynavi.jp/-site_media/media/lc/pvpglwkhwhiyblt_24991/2/index.html"
 		},
 		{
 			"id": "16",
 			"name": "株式会社日立医薬情報ソリューションズ",
 			"des": "大手製薬企業をはじめ、医薬品業界のお客様へICTサービスを提供しています。",
-			"pride": "https://www.hitachi-pi.co.jp/",
-			"photo": "-",
+			"photo": "img23.jpg",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"SE"
 			],
 			"gakubus": [
 				"すべて",
-				"コネクティブインダストリーズ"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"コネクティブインダストリーズ"
+			],
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"英語使う機会あり",
@@ -628,22 +690,25 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hitachi-pi.co.jp/employ/index.html",
-			"link3": "SE",
-			"link4": "img69.jpg"
+			"link2": "https://www.hitachi-pi.co.jp/",
+			"link3": "https://www.hitachi-pi.co.jp/employ/index.html",
+			"link4": "none"
 		},
 		{
 			"id": "17",
 			"name": "株式会社日立ニコトランスミッション",
 			"des": "世界で活躍するトランスミッションの専業メーカー",
-			"pride": "https://www.hitachi-nico.jp/",
-			"photo": "-",
+			"photo": "img60.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"生産技術",
+				"品質保証",
+				"営業技術",
+				"資材調達"
+			],
+			"gakubus": [
 				"すべて",
 				"機械工学系",
 				"電気・電子・通信工学系",
@@ -653,11 +718,11 @@
 				"エネルギー・資源工学系",
 				"材料工学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -670,22 +735,34 @@
 				"フレックスタイム制度",
 				"スピード内定2週間以内"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hitachi-nico.jp/recruit/recruitment/index.html",
-			"link3": "設計開発\n生産技術\n品質保証\n営業技術\n資材調達\n生産管理",
-			"link4": "img60.jpg"
+			"link2": "https://www.hitachi-nico.jp/",
+			"link3": "https://www.hitachi-nico.jp/recruit/recruitment/index.html",
+			"link4": "none"
 		},
 		{
 			"id": "18",
 			"name": "株式会社日立ビルシステム",
 			"des": "先進のIoT技術と信頼のエンジニアリングの融合で人やビルに新たな価値を提供し、持続可能な社会を実現します",
-			"pride": "https://www.hbs.co.jp/",
-			"photo": "-",
+			"photo": "img61.jpg",
 			"syokusyus": [
+				"すべて",
+				"研究開発",
+				"設計開発",
+				"SE",
+				"品質保証",
+				"保守管理",
+				"営業技術",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"生産管理",
+				"人事総務",
+				"知財・法務",
+				"企画",
+				"その他"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -700,11 +777,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -716,22 +793,32 @@
 				"年間休日120日以上",
 				"フレックスタイム制度"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.youtube.com/watch?v=CV3CAw61rP8",
-			"link2": "https://www.hbs.co.jp/saiyou/recruit/",
-			"link3": "研究開発\n設計開発\nSE\n品質保証\n保守管理\n営業技術\n営業\n経理財務\n資材調達\n生産管理\n人事総務\n知財・法務\n企画\nその他",
-			"link4": "img61.jpg"
+			"link1": "-",
+			"link2": "https://www.hbs.co.jp/",
+			"link3": "https://www.hbs.co.jp/saiyou/recruit/",
+			"link4": "https://www.youtube.com/watch?v=CV3CAw61rP8"
 		},
 		{
 			"id": "19",
 			"name": "株式会社日立パワーソリューションズ",
 			"des": "ゼロカーボン社会の実現とエネルギーの安定供給・社会インフラ設備の安定稼働に貢献し、地球環境と人々の暮らしを支えている会社です！",
-			"pride": "https://www.hitachi-power-solutions.com/",
-			"photo": "-",
+			"photo": "img09.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"生産技術",
+				"品質保証",
+				"保守管理",
+				"営業技術",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"生産管理",
+				"人事総務",
+				"知財・法務"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"理系のみ",
@@ -746,11 +833,11 @@
 				"土木工学・建築・環境工学系",
 				"エネルギー・資源工学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -763,22 +850,27 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.youtube.com/channel/UCWQHeQlptMDcVmdlBCWbVbQ",
-			"link2": "https://www.hitachi-power-solutions.com/recruit/newgraduate/index.html",
-			"link3": "設計開発\nSE\n生産技術\n品質保証\n保守管理\n営業技術\n営業\n経理財務\n資材調達\n生産管理\n人事総務\n知財・法務",
-			"link4": "img09.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-power-solutions.com/",
+			"link3": "https://www.hitachi-power-solutions.com/recruit/newgraduate/index.html",
+			"link4": "https://www.youtube.com/channel/UCWQHeQlptMDcVmdlBCWbVbQ"
 		},
 		{
 			"id": "20",
 			"name": "株式会社日立ハイテクフィールディング",
 			"des": "半導体製造・評価装置、電子顕微鏡、分析装置、医用機器、計測制御システム等の技術サービスで幅広い業界のお客様を支えています。【創業以来59年黒字経営】【1年間の充実した研修制度】",
-			"pride": "https://www.hitachi-hightech.com/jp/ja/company/group/hfd/?iid=cn3",
-			"photo": "-",
+			"photo": "img22.jpg",
 			"syokusyus": [
+				"すべて",
+				"SE",
+				"保守管理",
+				"営業技術",
+				"営業",
+				"経理財務",
+				"人事総務",
+				"知財・法務"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -792,11 +884,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"英語使う機会あり",
@@ -807,58 +899,65 @@
 				"フレックスタイム制度",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://players.brightcove.net/4931690904001/SJlk90eb17_default/index.html?videoId=6369861525112",
-			"link2": "https://www.hitachi-hightech.com/jp/ja/career/hfd/new-graduate/",
-			"link3": "SE\n保守管理\n営業技術\n営業\n経理財務\n人事総務\n知財・法務",
-			"link4": "img22.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-hightech.com/jp/ja/company/group/hfd/?iid=cn3",
+			"link3": "https://www.hitachi-hightech.com/jp/ja/career/hfd/new-graduate/",
+			"link4": "https://players.brightcove.net/4931690904001/SJlk90eb17_default/index.html?videoId=6369861525112"
 		},
 		{
 			"id": "21",
 			"name": "株式会社日立アイイーシステム",
 			"des": "半世紀をかけて培ったモノづくり技術で「社会・産業」「電力」「情報」のインフラを支えます。",
-			"pride": "https://www.hitachi-ie.jp/",
-			"photo": "-",
+			"photo": "img05.png",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"生産技術",
+				"品質保証",
+				"営業技術",
+				"経理財務",
+				"資材調達"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
 				"電気・電子・通信工学系",
 				"情報工学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
-				"会社紹介動画あり",
 				"テレワーク",
 				"完全週休2日制",
 				"年間休日120日以上",
 				"フレックスタイム制度",
+				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hitachi-ie.jp/recruit/index.html",
-			"link3": "設計開発\n生産技術\n品質保証\n営業技術\n経理財務\n資材調達",
-			"link4": "img05.jpg"
+			"link2": "https://www.hitachi-ie.jp/",
+			"link3": "https://www.hitachi-ie.jp/recruit/index.html",
+			"link4": "none"
 		},
 		{
 			"id": "22",
 			"name": "株式会社日立ケーイーシステムズ",
 			"des": "デジタルサイネージとIoTを軸に、設計から運用まで社会を支えるSier",
-			"pride": "https://www.hke.jp/",
-			"photo": "-",
+			"photo": "img48.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"保守管理",
+				"営業技術",
+				"営業"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -870,11 +969,11 @@
 				"経営工学系",
 				"土木工学・建築・環境工学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"会社紹介動画あり",
@@ -886,22 +985,27 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.hke.jp/recruit/rec_video.htm",
-			"link2": "https://www.hke.jp/recruit/rec_entry_1.htm",
-			"link3": "設計開発\nSE\n保守管理\n営業技術\n営業",
-			"link4": "img48.jpg"
+			"link1": "-",
+			"link2": "https://www.hke.jp/",
+			"link3": "https://www.hke.jp/recruit/rec_entry_1.htm",
+			"link4": "https://www.hke.jp/recruit/rec_video.htm"
 		},
 		{
 			"id": "23",
 			"name": "株式会社日立産業制御ソリューションズ",
 			"des": "OT×最先端のデジタル技術(生成AI、画像応用など)を掛け合わせ、安全・安心・快適な社会づくりに貢献！",
-			"pride": "https://www.hitachi-ics.co.jp/",
-			"photo": "-",
+			"photo": "img03.png",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"品質保証",
+				"営業",
+				"経理財務",
+				"人事総務",
+				"知財・法務"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -916,11 +1020,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -934,22 +1038,31 @@
 				"3年以内離職率10％以下",
 				"スピード内定2週間以内"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.youtube.com/watch?v=EJDVYzoIOUI",
-			"link2": "https://info.hitachi-ics.co.jp/recruit/fresher/",
-			"link3": "設計開発\nSE\n品質保証\n営業\n経理財務\n人事総務\n知財・法務",
-			"link4": "img03.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-ics.co.jp/",
+			"link3": "https://info.hitachi-ics.co.jp/recruit/fresher/",
+			"link4": "https://www.youtube.com/watch?v=EJDVYzoIOUI"
 		},
 		{
 			"id": "24",
 			"name": "株式会社日立インダストリアルプロダクツ",
 			"des": "社会・産業インフラの基盤を支えるオーダーメイドの大型産業機器をグローバルに展開しています。",
-			"pride": "https://www.hitachi-ip.co.jp/",
-			"photo": "-",
+			"photo": "img46.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"生産技術",
+				"品質保証",
+				"保守管理",
+				"営業技術",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"生産管理",
+				"人事総務"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -964,11 +1077,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -981,22 +1094,32 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://youtu.be/pGVTLnS3JpE",
-			"link2": "https://www.e2r.jp/ja/hitachi_ip2027/",
-			"link3": "設計開発\nSE\n生産技術\n品質保証\n保守管理\n営業技術\n営業\n経理財務\n資材調達\n生産管理\n人事総務",
-			"link4": "img46.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-ip.co.jp/",
+			"link3": "https://www.e2r.jp/ja/hitachi_ip2027/",
+			"link4": "https://secure-web.cisco.com/15KaxZi0AKWNKIIgPG8Vvfpc-cVSC9VoS7mV1AKUS1qw2HeLncX0hgCW9ZwpIXuaEbEN_tq0mSsSWG6POOgSmN7YXDeeYaLlTIA3pX8NWCg_kZ0TZkpdNszZ4sc_eBL2HyJFa1C957fOqOjiSAE5X46pkiErsoRx9sax1Aru-zRk4-6Sx7nXLlMGPFkhlMUSqQ6XwDE_iG_kRfffL8HcNfMlR1JCL_GjfjUzwLPbOq44ZJfhLKov8X5kjxy5sg0SjQaD8td6ggrzmtM2KNaNuMyawblqltHZq3CHkw1f9kQOb7JxFK0OVKLEn6M2qfo0BefqzkdxFAfvYRlXewGgiUg/https%3A%2F%2Fconvert.jobtv.mynavi.jp%2Frlink%3Fuc%3D27s238762vod01"
 		},
 		{
 			"id": "25",
 			"name": "日立グローバルライフソリューションズ株式会社",
 			"des": "家電と空調事業を事業の柱とし、お客様のQoL向上に貢献するライフソリューションカンパニーです。",
-			"pride": "https://corp.hitachi-gls.co.jp/",
-			"photo": "-",
+			"photo": "img31.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"生産技術",
+				"品質保証",
+				"保守管理",
+				"営業技術",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"生産管理",
+				"人事総務",
+				"企画",
+				"その他"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -1011,11 +1134,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"英語使う機会あり",
@@ -1026,21 +1149,24 @@
 				"服装自由",
 				"スピード内定2週間以内"
 			],
-			"kodawaris": [
-				"すべて"
-			],
-			"link1": "まち？",
-			"link2": "https://www.hitachi-gls.co.jp/recruit/newgraduate/",
-			"link3": "設計開発\n生産技術\n品質保証\n保守管理\n営業技術\n営業\n経理財務\n資材調達\n生産管理\n人事総務\n企画\nその他",
-			"link4": "img31.jpg"
+			"link1": "-",
+			"link2": "https://corp.hitachi-gls.co.jp/",
+			"link3": "https://www.hitachi-gls.co.jp/recruit/newgraduate/",
+			"link4": "none"
 		},
 		{
 			"id": "26",
 			"name": "株式会社日立ハイシステム２１",
 			"des": "自動車、化学、金融、産業・ERP、プラットフォームの５分野を柱に、システム開発における要件定義などの上流工程から、プログラミング・テストなどの下流工程まで幅広く事業を展開するIT企業です。",
-			"pride": "http://www.hs21.co.jp/",
-			"photo": "-",
+			"photo": "img15.jpg",
 			"syokusyus": [
+				"すべて",
+				"SE",
+				"営業",
+				"経理財務",
+				"人事総務"
+			],
+			"gakubus": [
 				"すべて",
 				"機械工学系",
 				"電気・電子・通信工学系",
@@ -1054,11 +1180,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"英語使う機会あり",
@@ -1069,22 +1195,28 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "http://www.hs21.co.jp/recruit/newgraduate/index.html",
-			"link3": "SE\n営業\n経理財務",
-			"link4": "img15.jpg"
+			"link2": "http://www.hs21.co.jp/",
+			"link3": "http://www.hs21.co.jp/recruit/newgraduate/index.html",
+			"link4": "none"
 		},
 		{
 			"id": "27",
 			"name": "株式会社日立プラントメカニクス",
 			"des": "100年以上ある日立クレーンの歴史を継承する産業用クレーンの総合メーカーです。",
-			"pride": "https://www.hitachi-hpm.co.jp/",
-			"photo": "-",
+			"photo": "img59.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"生産技術",
+				"品質保証",
+				"保守管理",
+				"営業",
+				"資材調達",
+				"生産管理"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"理系のみ",
@@ -1093,11 +1225,11 @@
 				"電気・電子・通信工学系",
 				"情報工学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -1109,30 +1241,48 @@
 				"3年以内離職率10％以下",
 				"スピード内定2週間以内"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.youtube.com/watch?v=ZDt0r8iwuiE",
-			"link2": "https://www.hitachi-hpm.co.jp/recruit/index.html",
-			"link3": "設計開発\nSE\n生産技術\n品質保証\n保守管理\n営業\n資材調達\n生産管理",
-			"link4": "img60.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-hpm.co.jp/",
+			"link3": "https://www.hitachi-hpm.co.jp/recruit/newgraduate/index.html",
+			"link4": "https://www.youtube.com/watch?v=ZDt0r8iwuiE"
 		},
 		{
 			"id": "28",
 			"name": "株式会社 日立ハイテク",
 			"des": "最先端技術とヘルスケアに強みを持ち、「見る・測る・分析する」に特化したソリューションを提供しています。",
-			"pride": "https://www.hitachi-hightech.com/jp/ja/",
-			"photo": "-",
+			"photo": "img21.jpg",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"研究開発",
+				"設計開発",
+				"SE",
+				"生産技術",
+				"品質保証",
+				"営業技術",
+				"営業",
+				"経理財務",
+				"生産管理",
+				"人事総務",
+				"知財・法務",
+				"その他"
 			],
 			"gakubus": [
 				"すべて",
-				"コネクティブインダストリーズ"
+				"学部不問",
+				"機械工学系",
+				"電気・電子・通信工学系",
+				"情報工学系",
+				"化学系",
+				"物理学系",
+				"数学系",
+				"材料工学系",
+				"その他"
 			],
 			"bunyas": [
+				"すべて",
+				"コネクティブインダストリーズ"
+			],
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -1144,33 +1294,37 @@
 				"フレックスタイム制度",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.youtube.com/watch?v=owMrTB-bz6g&t=37s",
-			"link2": "https://www.hitachi-hightech.com/jp/ja/career/recruit/",
-			"link3": "研究開発\n設計開発\nSE\n生産技術\n品質保証\n営業技術\n営業\n経理財務\n生産管理\n人事総務\n知財・法務\nその他",
-			"link4": "img21.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-hightech.com/jp/ja/",
+			"link3": "https://www.hitachi-hightech.com/jp/ja/career/recruit/",
+			"link4": "https://www.youtube.com/watch?v=owMrTB-bz6g&t=37s"
 		},
 		{
 			"id": "29",
 			"name": "株式会社日立ハイテクマニファクチャ＆サービス",
 			"des": "世界中で使用されている医用装置や半導体装置の製造を最先端の技術で支え、モノづくりのプロ集団として社会に貢献しています。",
-			"pride": "https://www.hitachi-hightech.com/jp/ja/company/group/hms/",
-			"photo": "-",
+			"photo": "img49.png",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"生産技術",
+				"品質保証",
+				"生産管理",
+				"人事総務"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
 				"電気・電子・通信工学系",
 				"情報工学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"業界シェアTOPクラス",
 				"資格取得バックアップ",
@@ -1180,22 +1334,25 @@
 				"フレックスタイム制度",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://www.hitachi-hightech.com/jp/ja/career/hms/new-graduate/",
-			"link3": "設計開発\nSE\n生産技術\n品質保証\n生産管理\n人事総務",
-			"link4": "img49.jpg"
+			"link2": "https://www.hitachi-hightech.com/jp/ja/company/group/hms/",
+			"link3": "https://www.hitachi-hightech.com/jp/ja/career/hms/new-graduate/",
+			"link4": "none"
 		},
 		{
 			"id": "30",
 			"name": "株式会社日立プラントサービス",
 			"des": "確かな『技術力』で社会を支え、動かす総合エンジニアリング企業です。",
-			"pride": "https://www.hitachi-hps.co.jp",
-			"photo": "-",
+			"photo": "img24.jpg",
 			"syokusyus": [
+				"すべて",
+				"研究開発",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"人事総務"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"理系のみ",
@@ -1212,11 +1369,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コネクティブインダストリーズ"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"英語使う機会あり",
@@ -1228,22 +1385,24 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://www.youtube.com/watch?v=Mc8_SOqwUMc",
-			"link2": "https://www.hitachi-hps.co.jp/recruit/newgraduate/index.html",
-			"link3": "研究開発\n営業\n経理財務\n資材調達\n人事総務",
-			"link4": "img24.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-hps.co.jp",
+			"link3": "https://www.hitachi-hps.co.jp/recruit/newgraduate/index.html",
+			"link4": "https://www.youtube.com/watch?v=Mc8_SOqwUMc"
 		},
 		{
 			"id": "31",
 			"name": "株式会社日立プラントコンストラクション",
 			"des": "日立グループで数少ない、巨大なプラント工事を担う会社です",
-			"pride": "https://www.hitachi-plant-construction.co.jp/",
-			"photo": "-",
+			"photo": "img57.jpg",
 			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"品質保証",
+				"営業",
+				"経理財務"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -1257,11 +1416,11 @@
 				"エネルギー・資源工学系",
 				"材料工学系"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"エナジー"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"英語使う機会あり",
@@ -1271,22 +1430,22 @@
 				"年間休日120日以上",
 				"フレックスタイム制度"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "まち？",
-			"link2": "https://www.hitachi-plant-construction.co.jp/recruit/index.html",
-			"link3": "設計開発\n品質保証\n営業\n経理財務",
-			"link4": "img57.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-plant-construction.co.jp/",
+			"link3": "https://www.hitachi-plant-construction.co.jp/recruit/index.html",
+			"link4": "none"
 		},
 		{
 			"id": "32",
 			"name": "株式会社日立マネジメントパートナー",
 			"des": "人事・財務関連業務に関するシェアードサービスとシステムソリューションサービスで、日立グループに貢献しています。",
-			"pride": "https://www.hitachi-mp.co.jp/",
-			"photo": "-",
+			"photo": "img66.jpg",
 			"syokusyus": [
+				"すべて",
+				"SE",
+				"その他"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"理系のみ",
@@ -1303,11 +1462,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コーポレート"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"テレワーク",
@@ -1317,22 +1476,23 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
-			"link1": "https://secure-web.cisco.com/1byYhd5zNnjU-1KpmqenWL6Qgi_pz38EZQuFKdK8Js0e1ra1OU7R_5wHrYgrDfMLeK39ju7FBWyGKA7I0x3j9ZH7f6nbond6g4bjaeqtdiAJ29iXTABXm5SiID9U_MAwMVNfQI7ZqzQ6ZBcPRw6Wp0UWs3oMiZr0p3NjqgdWqtbvNGqoIffOIAQxzMj3TDLNxDwaVznEKn3mbhJgec459HK4JpBaGBd6o2CPHP-SaSXm8fLi5K2NmqbPtua4wCyPZtOvkM3RnDfFIp3_i1lkfQyD1x-lFSLqnYY7q2LSoZ6Ez4N-tlw-hU_pQq1Am5lDo/https%3A%2F%2Fconvert.jobtv.mynavi.jp%2Frlink%3Fuc%3D27s110190vod01",
-			"link2": "https://www.hitachi-mp.co.jp/recruit/",
-			"link3": "SE\nその他",
-			"link4": "img66.jpg"
+			"link1": "-",
+			"link2": "https://www.hitachi-mp.co.jp/",
+			"link3": "https://www.hitachi-mp.co.jp/recruit/",
+			"link4": "https://secure-web.cisco.com/1byYhd5zNnjU-1KpmqenWL6Qgi_pz38EZQuFKdK8Js0e1ra1OU7R_5wHrYgrDfMLeK39ju7FBWyGKA7I0x3j9ZH7f6nbond6g4bjaeqtdiAJ29iXTABXm5SiID9U_MAwMVNfQI7ZqzQ6ZBcPRw6Wp0UWs3oMiZr0p3NjqgdWqtbvNGqoIffOIAQxzMj3TDLNxDwaVznEKn3mbhJgec459HK4JpBaGBd6o2CPHP-SaSXm8fLi5K2NmqbPtua4wCyPZtOvkM3RnDfFIp3_i1lkfQyD1x-lFSLqnYY7q2LSoZ6Ez4N-tlw-hU_pQq1Am5lDo/https%3A%2F%2Fconvert.jobtv.mynavi.jp%2Frlink%3Fuc%3D27s110190vod01"
 		},
 		{
 			"id": "33",
 			"name": "株式会社関東日立",
 			"des": "日立グループ製品を提案販売から納入、保守メンテナンスまで一貫して提供します。充実した教育体系と勤務制度で、自分らしく働けます。",
-			"pride": "https://www.hitachi-hansya.jp/kanto-hitachi/index.html",
-			"photo": "-",
+			"photo": "img65.jpg",
 			"syokusyus": [
+				"すべて",
+				"保守管理",
+				"営業技術",
+				"営業"
+			],
+			"gakubus": [
 				"すべて",
 				"学部不問",
 				"機械工学系",
@@ -1347,11 +1507,11 @@
 				"材料工学系",
 				"その他"
 			],
-			"gakubus": [
+			"bunyas": [
 				"すべて",
 				"コーポレート"
 			],
-			"bunyas": [
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"テレワーク",
@@ -1362,30 +1522,31 @@
 				"3年以内離職率10％以下",
 				"スピード内定2週間以内"
 			],
-			"kodawaris": [
-				"すべて",
-				"-"
-			],
 			"link1": "-",
-			"link2": "https://job.mynavi.jp/27/pc/search/corp216356/outline.html",
-			"link3": "保守管理\n営業技術\n営業",
-			"link4": "img65.jpg"
+			"link2": "https://www.hitachi-hansya.jp/kanto-hitachi/index.html",
+			"link3": "https://job.mynavi.jp/27/pc/search/corp216356/outline.html",
+			"link4": "none"
 		},
 		{
 			"id": "34",
 			"name": "関西日立株式会社",
 			"des": "関西を基盤に日立グループの電機製品を販売する電機専門商社です！【年間休日126日、年休消化率8割以上、フレックス・在宅OK等】企業様の製品・工場における品質向上や安定稼動、コスト削減、DX・環境問題対策を実現すべく付加価値あるビジネスを行っています。",
-			"pride": "https://www.kansaihitachi.co.jp/",
-			"photo": "-",
+			"photo": "img27.jpg",
 			"syokusyus": [
 				"すべて",
-				"学部不問"
+				"営業技術",
+				"営業",
+				"経理財務"
 			],
 			"gakubus": [
 				"すべて",
-				"コーポレート"
+				"学部不問"
 			],
 			"bunyas": [
+				"すべて",
+				"コーポレート"
+			],
+			"kodawaris": [
 				"すべて",
 				"資格取得バックアップ",
 				"地元密着転勤なし",
@@ -1396,14 +1557,94 @@
 				"服装自由",
 				"3年以内離職率10％以下"
 			],
+			"link1": "-",
+			"link2": "https://www.kansaihitachi.co.jp/",
+			"link3": "https://www.kansaihitachi.co.jp/recruit/index.html",
+			"link4": "none"
+		},
+		{
+			"id": "35",
+			"name": "株式会社日立リアルエステートパートナーズ",
+			"des": "日立リアルエステートパートナーズは、日立グループのCRE戦略推進会社として、人々のQuality of Lifeの向上に貢献しています。",
+			"photo": "img71.jpg",
+			"syokusyus": [
+				"すべて",
+				"保守管理",
+				"営業",
+				"経理財務",
+				"人事総務",
+				"その他"
+			],
+			"gakubus": [
+				"すべて",
+				"学部不問",
+				"理系のみ",
+				"文系のみ",
+				"機械工学系",
+				"電気・電子・通信工学系",
+				"情報工学系",
+				"化学系",
+				"物理学系",
+				"数学系",
+				"経営工学系",
+				"土木工学・建築・環境工学系",
+				"エネルギー・資源工学系",
+				"材料工学系",
+				"その他"
+			],
+			"bunyas": [
+				"すべて",
+				"コーポレート"
+			],
 			"kodawaris": [
 				"すべて",
-				"-"
+				"資格取得バックアップ",
+				"英語使う機会あり",
+				"女性役員在籍",
+				"テレワーク",
+				"完全週休2日制",
+				"年間休日120日以上",
+				"フレックスタイム制度",
+				"服装自由",
+				"3年以内離職率10％以下"
 			],
 			"link1": "-",
-			"link2": "https://www.kansaihitachi.co.jp/recruit/index.html",
-			"link3": "営業技術\n営業\n経理財務",
-			"link4": "img27.jpg"
+			"link2": "https://www.hitachi-rep.co.jp/",
+			"link3": "https://www.hitachi-rep.co.jp/recruit/",
+			"link4": "none"
+		},
+		{
+			"id": "36",
+			"name": "日立交通テクノロジー株式会社",
+			"des": "私たちは鉄道車両や鉄道関連システムの制作で培った確かな技術を礎に、鉄道分野における事業の幅を広めるとともに、社会・暮しに貢献する、魅力あふれる会社をめざしています。",
+			"photo": "img70.jpg",
+			"syokusyus": [
+				"すべて",
+				"設計開発",
+				"SE",
+				"生産技術",
+				"品質保証",
+				"保守管理"
+			],
+			"gakubus": [
+				"すべて",
+				"学部不問",
+				"電気・電子・通信工学系"
+			],
+			"bunyas": [
+				"すべて",
+				"モビリティ"
+			],
+			"kodawaris": [
+				"すべて",
+				"完全週休2日制",
+				"年間休日120日以上",
+				"フレックスタイム制度"
+			],
+			"link1": "-",
+			"link2": "https://www.hitachi-hik.co.jp/",
+			"link3": "https://www.hitachi-hik.co.jp/recruit/index.html",
+			"link4": "none"
 		}
 	]
 }

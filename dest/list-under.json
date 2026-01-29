@@ -1,0 +1,263 @@
+{
+	"items": [
+		{
+			"id": "0",
+			"name": "株式会社日立ソリューションズ西日本",
+			"photo": "img53.jpg",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "1",
+			"name": "株式会社日立ICTビジネスサービス",
+			"photo": "img04.jpg",
+			"entry": "-",
+			"category": "corporate"
+		},
+		{
+			"id": "2",
+			"name": "株式会社日立システムズエンジニアリングサービス",
+			"photo": "img00.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "3",
+			"name": "株式会社日立システムズパワーサービス",
+			"photo": "img17.jpg",
+			"entry": "-",
+			"category": "energy"
+		},
+		{
+			"id": "4",
+			"name": "株式会社日立システムズ",
+			"photo": "img06.jpg",
+			"entry": "-",
+			"category": "mobility"
+		},
+		{
+			"id": "5",
+			"name": "株式会社 日立ソリューションズ・クリエイト",
+			"photo": "img35.png",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "6",
+			"name": "株式会社日立システムズフィールドサービス",
+			"photo": "img55.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "7",
+			"name": "株式会社北海道日立システムズ",
+			"photo": "img54.png",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "8",
+			"name": "株式会社日立社会情報サービス",
+			"photo": "img28.jpg",
+			"entry": "-",
+			"category": "corporate"
+		},
+		{
+			"id": "9",
+			"name": "日立チャネルソリューションズ株式会社",
+			"photo": "img53.png",
+			"entry": "-",
+			"category": "energy"
+		},
+		{
+			"id": "10",
+			"name": "日立ターミナルメカトロニクス株式会社",
+			"photo": "img74.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "11",
+			"name": "株式会社日立情報通信エンジニアリング",
+			"photo": "img44.jpg",
+			"entry": "-",
+			"category": "mobility"
+		},
+		{
+			"id": "12",
+			"name": "株式会社日立ソリューションズ",
+			"photo": "img34.png",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "13",
+			"name": "株式会社九州日立システムズ",
+			"photo": "img73.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "14",
+			"name": "株式会社日立ソリューションズ・テクノロジー",
+			"photo": "img13.jpg",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "15",
+			"name": "日立ヴァンタラ株式会社",
+			"photo": "img69.jpg",
+			"entry": "-",
+			"category": "corporate"
+		},
+		{
+			"id": "16",
+			"name": "株式会社日立医薬情報ソリューションズ",
+			"photo": "img23.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "17",
+			"name": "株式会社日立ニコトランスミッション",
+			"photo": "img60.jpg",
+			"entry": "-",
+			"category": "energy"
+		},
+		{
+			"id": "18",
+			"name": "株式会社日立ビルシステム",
+			"photo": "img61.jpg",
+			"entry": "-",
+			"category": "mobility"
+		},
+		{
+			"id": "19",
+			"name": "株式会社日立パワーソリューションズ",
+			"photo": "img09.jpg",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "20",
+			"name": "株式会社日立ハイテクフィールディング",
+			"photo": "img22.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "21",
+			"name": "株式会社日立アイイーシステム",
+			"photo": "img05.png",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "22",
+			"name": "株式会社日立ケーイーシステムズ",
+			"photo": "img48.jpg",
+			"entry": "-",
+			"category": "corporate"
+		},
+		{
+			"id": "23",
+			"name": "株式会社日立産業制御ソリューションズ",
+			"photo": "img03.png",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "24",
+			"name": "株式会社日立インダストリアルプロダクツ",
+			"photo": "img46.jpg",
+			"entry": "-",
+			"category": "energy"
+		},
+		{
+			"id": "25",
+			"name": "日立グローバルライフソリューションズ株式会社",
+			"photo": "img31.jpg",
+			"entry": "-",
+			"category": "mobility"
+		},
+		{
+			"id": "26",
+			"name": "株式会社日立ハイシステム２１",
+			"photo": "img15.jpg",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "27",
+			"name": "株式会社日立プラントメカニクス",
+			"photo": "img59.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "28",
+			"name": "株式会社 日立ハイテク",
+			"photo": "img21.jpg",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "29",
+			"name": "株式会社日立ハイテクマニファクチャ＆サービス",
+			"photo": "img49.png",
+			"entry": "-",
+			"category": "corporate"
+		},
+		{
+			"id": "30",
+			"name": "株式会社日立プラントサービス",
+			"photo": "img24.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "31",
+			"name": "株式会社日立プラントコンストラクション",
+			"photo": "img57.jpg",
+			"entry": "-",
+			"category": "energy"
+		},
+		{
+			"id": "32",
+			"name": "株式会社日立マネジメントパートナー",
+			"photo": "img66.jpg",
+			"entry": "-",
+			"category": "mobility"
+		},
+		{
+			"id": "33",
+			"name": "株式会社関東日立",
+			"photo": "img65.jpg",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "34",
+			"name": "関西日立株式会社",
+			"photo": "img27.jpg",
+			"entry": "-",
+			"category": "connective_industries"
+		},
+		{
+			"id": "35",
+			"name": "株式会社日立リアルエステートパートナーズ",
+			"photo": "img71.jpg",
+			"entry": "-",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "36",
+			"name": "日立交通テクノロジー株式会社",
+			"photo": "img70.jpg",
+			"entry": "-",
+			"category": "digital_systems_services"
+		}
+	]
+}
