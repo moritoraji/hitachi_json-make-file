@@ -17,6 +17,28 @@ const EXCEL_START_ROW_INDEX = EXCEL_START_ROW - 1;
 const EXCEL_END_ROW = 38;   // データ終了行
 const EXCEL_RANGE = `A${EXCEL_START_ROW}:M${EXCEL_END_ROW}`;  // エクセル範囲
 
+// true/falseの判定（空の場合はtrue、falseの記載があればfalse、それ以外はtrue）
+const isTrue = (value) => {
+  // 空の値（'none'、空文字列、undefined、null）はtrueとして扱う
+  if (value === undefined || value === null || value === '' || value === 'none') {
+    return true;
+  }
+  // 真偽値の場合
+  if (typeof value === 'boolean') return value;
+  // 文字列の場合
+  if (typeof value === 'string') {
+    const upperValue = value.toUpperCase();
+    // falseの記載があればfalse
+    if (upperValue === 'FALSE') {
+      return false;
+    }
+    // それ以外（true、空文字列など）はtrue
+    return true;
+  }
+  // その他の場合はtrue（デフォルト）
+  return true;
+};
+
 const readXLSX = () => {
   let ret = [];
 
@@ -52,6 +74,8 @@ const readXLSX = () => {
       const r_photo = getCellValue(11, r);
       const r_entry = getCellValue(12, r);
       const r_category = getCellValue(13, r);
+      const r_isTop = getCellValue(14, r, '');
+      const r_isEntry = getCellValue(15, r, '');
 
       // リスト形式のデータを取得
       const getListValue = (col) => {
@@ -80,6 +104,8 @@ const readXLSX = () => {
         link4: r_link4,
         entry: r_entry,
         category: r_category,
+        isTop: r_isTop,
+        isEntry: r_isEntry,
       });
     }
 
@@ -93,29 +119,31 @@ const readXLSX = () => {
 const createJSON = async (data) => {
   try {
     // データを処理
-    const processedData = data.map(item => {
-      // 配列内の文字列を分割する関数
-      const splitStrings = (arr) => {
-        return arr.reduce((result, str) => {
-          if (str === 'すべて') {
-            result.push(str);
-          } else {
-            // \n で分割して配列に追加
-            result.push(...str.split('\n'));
-          }
-          return result;
-        }, []);
-      };
+    const processedData = data
+      .filter(item => isTrue(item.isTop)) // isTopがtrueのアイテムのみをフィルタリング
+      .map(item => {
+        // 配列内の文字列を分割する関数
+        const splitStrings = (arr) => {
+          return arr.reduce((result, str) => {
+            if (str === 'すべて') {
+              result.push(str);
+            } else {
+              // \n で分割して配列に追加
+              result.push(...str.split('\n'));
+            }
+            return result;
+          }, []);
+        };
 
-      const { entry, category, ...rest } = item;
-      return {
-        ...rest,
-        syokusyus: splitStrings(item.syokusyus),
-        gakubus: splitStrings(item.gakubus),
-        bunyas: splitStrings(item.bunyas),
-        kodawaris: splitStrings(item.kodawaris)
-      };
-    });
+        const { entry, category, isTop, isEntry, ...rest } = item;
+        return {
+          ...rest,
+          syokusyus: splitStrings(item.syokusyus),
+          gakubus: splitStrings(item.gakubus),
+          bunyas: splitStrings(item.bunyas),
+          kodawaris: splitStrings(item.kodawaris)
+        };
+      });
 
     // list.json も下層用と同じく items 配列でラップする
     const json = JSON.stringify({ items: processedData }, null, '\t');
@@ -130,14 +158,17 @@ const createJSON = async (data) => {
 const createLPJSON = async (data) => {
   try {
     // 下層用のデータを処理
+    // isEntryがtrueのアイテムのみをフィルタリングし、isEntryプロパティは出力しない
     const lpData = {
-      items: data.map(item => ({
-        id: item.id,
-        name: item.name,
-        photo: item.photo,
-        entry: item.entry,
-        category: item.category
-      }))
+      items: data
+        .filter(item => isTrue(item.isEntry)) // isEntryがtrueのアイテムのみをフィルタリング
+        .map(item => ({
+          id: item.id,
+          name: item.name,
+          photo: item.photo,
+          entry: item.entry,
+          category: item.category
+        }))
     };
 
     const json = JSON.stringify(lpData, null, '\t');

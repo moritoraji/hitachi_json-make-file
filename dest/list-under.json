@@ -1,20 +1,6 @@
 {
 	"items": [
 		{
-			"id": "0",
-			"name": "株式会社日立ソリューションズ西日本",
-			"photo": "img53.jpg",
-			"entry": "-",
-			"category": "digital_systems_services"
-		},
-		{
-			"id": "1",
-			"name": "株式会社日立ICTビジネスサービス",
-			"photo": "img04.jpg",
-			"entry": "-",
-			"category": "corporate"
-		},
-		{
 			"id": "2",
 			"name": "株式会社日立システムズエンジニアリングサービス",
 			"photo": "img00.jpg",

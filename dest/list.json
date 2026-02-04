@@ -204,46 +204,6 @@
 			"link4": "https://youtu.be/G41c-Kb5xIY?si=nJ1brOweYpaATZM1"
 		},
 		{
-			"id": "5",
-			"name": "株式会社 日立ソリューションズ・クリエイト",
-			"des": "金融、社会・公共、産業・流通分野において、社会貢献度の高いソリューションを提供しています。",
-			"photo": "img35.png",
-			"syokusyus": [
-				"すべて",
-				"SE",
-				"営業",
-				"経理財務",
-				"資材調達",
-				"人事総務",
-				"知財・法務",
-				"企画"
-			],
-			"gakubus": [
-				"すべて",
-				"学部不問"
-			],
-			"bunyas": [
-				"すべて",
-				"デジタルシステム&サービス"
-			],
-			"kodawaris": [
-				"すべて",
-				"資格取得バックアップ",
-				"会社紹介動画あり",
-				"女性役員在籍",
-				"テレワーク",
-				"完全週休2日制",
-				"年間休日120日以上",
-				"フレックスタイム制度",
-				"服装自由",
-				"3年以内離職率10％以下"
-			],
-			"link1": "https://job.mynavi.jp/27/pc/search/corp75271/outline.html",
-			"link2": "https://www.hitachi-solutions-create.co.jp/",
-			"link3": "https://www.hitachi-solutions-create.co.jp/recruit/fresh/index.html",
-			"link4": "https://www.youtube.com/watch?v=OAB6zcWItu8"
-		},
-		{
 			"id": "6",
 			"name": "株式会社日立システムズフィールドサービス",
 			"des": "社会インフラを⽀える「縁の下の⼒持ち」として社会に貢献！",
@@ -567,7 +527,7 @@
 		{
 			"id": "14",
 			"name": "株式会社日立ソリューションズ・テクノロジー",
-			"des": "ソフト×ハードで、自動車、IoT分野で新たな価値や未来を創造。\r\n最先端のソリューション開発で「超スマート社会」に貢献。",
+			"des": "ソフト×ハードで、自動車、IoT分野で新たな価値や未来を創造。\n最先端のソリューション開発で「超スマート社会」に貢献。",
 			"photo": "img13.jpg",
 			"syokusyus": [
 				"すべて",
