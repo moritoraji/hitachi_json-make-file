@@ -204,6 +204,47 @@
 			"link4": "https://youtu.be/G41c-Kb5xIY?si=nJ1brOweYpaATZM1"
 		},
 		{
+			"id": "5",
+			"name": "株式会社 日立ソリューションズ・クリエイト",
+			"des": "金融、社会・公共、産業・流通分野において、社会貢献度の高いソリューションを提供しています。",
+			"photo": "img35.png",
+			"syokusyus": [
+				"すべて",
+				"SE",
+				"営業",
+				"経理財務",
+				"資材調達",
+				"人事総務",
+				"知財・法務",
+				"企画",
+				"その他"
+			],
+			"gakubus": [
+				"すべて",
+				"学部不問"
+			],
+			"bunyas": [
+				"すべて",
+				"デジタルシステム&サービス"
+			],
+			"kodawaris": [
+				"すべて",
+				"資格取得バックアップ",
+				"会社紹介動画あり",
+				"女性役員在籍",
+				"テレワーク",
+				"完全週休2日制",
+				"年間休日120日以上",
+				"フレックスタイム制度",
+				"服装自由",
+				"3年以内離職率10％以下"
+			],
+			"link1": "https://job.mynavi.jp/27/pc/search/corp75271/outline.html",
+			"link2": "https://www.hitachi-solutions-create.co.jp/",
+			"link3": "https://www.hitachi-solutions-create.co.jp/recruit/fresh/index.html",
+			"link4": "https://www.youtube.com/watch?v=OAB6zcWItu8"
+		},
+		{
 			"id": "6",
 			"name": "株式会社日立システムズフィールドサービス",
 			"des": "社会インフラを⽀える「縁の下の⼒持ち」として社会に貢献！",
@@ -527,7 +568,7 @@
 		{
 			"id": "14",
 			"name": "株式会社日立ソリューションズ・テクノロジー",
-			"des": "ソフト×ハードで、自動車、IoT分野で新たな価値や未来を創造。\n最先端のソリューション開発で「超スマート社会」に貢献。",
+			"des": "ソフト×ハードで、自動車、IoT分野で新たな価値や未来を創造。\r\n最先端のソリューション開発で「超スマート社会」に貢献。",
 			"photo": "img13.jpg",
 			"syokusyus": [
 				"すべて",
@@ -623,7 +664,7 @@
 			"link4": "https://webseminar.jobtv.mynavi.jp/-site_media/media/lc/pvpglwkhwhiyblt_24991/2/index.html"
 		},
 		{
-			"id": "16",
+			"id": "20",
 			"name": "株式会社日立医薬情報ソリューションズ",
 			"des": "大手製薬企業をはじめ、医薬品業界のお客様へICTサービスを提供しています。",
 			"photo": "img23.jpg",
@@ -656,7 +697,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "17",
+			"id": "21",
 			"name": "株式会社日立ニコトランスミッション",
 			"des": "世界で活躍するトランスミッションの専業メーカー",
 			"photo": "img60.jpg",
@@ -701,7 +742,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "18",
+			"id": "22",
 			"name": "株式会社日立ビルシステム",
 			"des": "先進のIoT技術と信頼のエンジニアリングの融合で人やビルに新たな価値を提供し、持続可能な社会を実現します",
 			"photo": "img61.jpg",
@@ -759,7 +800,7 @@
 			"link4": "https://www.youtube.com/watch?v=CV3CAw61rP8"
 		},
 		{
-			"id": "19",
+			"id": "23",
 			"name": "株式会社日立パワーソリューションズ",
 			"des": "ゼロカーボン社会の実現とエネルギーの安定供給・社会インフラ設備の安定稼働に貢献し、地球環境と人々の暮らしを支えている会社です！",
 			"photo": "img09.jpg",
@@ -816,7 +857,7 @@
 			"link4": "https://www.youtube.com/channel/UCWQHeQlptMDcVmdlBCWbVbQ"
 		},
 		{
-			"id": "20",
+			"id": "24",
 			"name": "株式会社日立ハイテクフィールディング",
 			"des": "半導体製造・評価装置、電子顕微鏡、分析装置、医用機器、計測制御システム等の技術サービスで幅広い業界のお客様を支えています。【創業以来59年黒字経営】【1年間の充実した研修制度】",
 			"photo": "img22.jpg",
@@ -865,7 +906,7 @@
 			"link4": "https://players.brightcove.net/4931690904001/SJlk90eb17_default/index.html?videoId=6369861525112"
 		},
 		{
-			"id": "21",
+			"id": "25",
 			"name": "株式会社日立アイイーシステム",
 			"des": "半世紀をかけて培ったモノづくり技術で「社会・産業」「電力」「情報」のインフラを支えます。",
 			"photo": "img05.png",
@@ -905,7 +946,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "22",
+			"id": "26",
 			"name": "株式会社日立ケーイーシステムズ",
 			"des": "デジタルサイネージとIoTを軸に、設計から運用まで社会を支えるSier",
 			"photo": "img48.jpg",
@@ -951,7 +992,7 @@
 			"link4": "https://www.hke.jp/recruit/rec_video.htm"
 		},
 		{
-			"id": "23",
+			"id": "27",
 			"name": "株式会社日立産業制御ソリューションズ",
 			"des": "OT×最先端のデジタル技術(生成AI、画像応用など)を掛け合わせ、安全・安心・快適な社会づくりに貢献！",
 			"photo": "img03.png",
@@ -1004,7 +1045,7 @@
 			"link4": "https://www.youtube.com/watch?v=EJDVYzoIOUI"
 		},
 		{
-			"id": "24",
+			"id": "28",
 			"name": "株式会社日立インダストリアルプロダクツ",
 			"des": "社会・産業インフラの基盤を支えるオーダーメイドの大型産業機器をグローバルに展開しています。",
 			"photo": "img46.jpg",
@@ -1060,7 +1101,7 @@
 			"link4": "https://secure-web.cisco.com/15KaxZi0AKWNKIIgPG8Vvfpc-cVSC9VoS7mV1AKUS1qw2HeLncX0hgCW9ZwpIXuaEbEN_tq0mSsSWG6POOgSmN7YXDeeYaLlTIA3pX8NWCg_kZ0TZkpdNszZ4sc_eBL2HyJFa1C957fOqOjiSAE5X46pkiErsoRx9sax1Aru-zRk4-6Sx7nXLlMGPFkhlMUSqQ6XwDE_iG_kRfffL8HcNfMlR1JCL_GjfjUzwLPbOq44ZJfhLKov8X5kjxy5sg0SjQaD8td6ggrzmtM2KNaNuMyawblqltHZq3CHkw1f9kQOb7JxFK0OVKLEn6M2qfo0BefqzkdxFAfvYRlXewGgiUg/https%3A%2F%2Fconvert.jobtv.mynavi.jp%2Frlink%3Fuc%3D27s238762vod01"
 		},
 		{
-			"id": "25",
+			"id": "29",
 			"name": "日立グローバルライフソリューションズ株式会社",
 			"des": "家電と空調事業を事業の柱とし、お客様のQoL向上に貢献するライフソリューションカンパニーです。",
 			"photo": "img31.jpg",
@@ -1115,7 +1156,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "26",
+			"id": "30",
 			"name": "株式会社日立ハイシステム２１",
 			"des": "自動車、化学、金融、産業・ERP、プラットフォームの５分野を柱に、システム開発における要件定義などの上流工程から、プログラミング・テストなどの下流工程まで幅広く事業を展開するIT企業です。",
 			"photo": "img15.jpg",
@@ -1161,7 +1202,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "27",
+			"id": "31",
 			"name": "株式会社日立プラントメカニクス",
 			"des": "100年以上ある日立クレーンの歴史を継承する産業用クレーンの総合メーカーです。",
 			"photo": "img59.jpg",
@@ -1207,7 +1248,7 @@
 			"link4": "https://www.youtube.com/watch?v=ZDt0r8iwuiE"
 		},
 		{
-			"id": "28",
+			"id": "32",
 			"name": "株式会社 日立ハイテク",
 			"des": "最先端技術とヘルスケアに強みを持ち、「見る・測る・分析する」に特化したソリューションを提供しています。",
 			"photo": "img21.jpg",
@@ -1260,7 +1301,7 @@
 			"link4": "https://www.youtube.com/watch?v=owMrTB-bz6g&t=37s"
 		},
 		{
-			"id": "29",
+			"id": "33",
 			"name": "株式会社日立ハイテクマニファクチャ＆サービス",
 			"des": "世界中で使用されている医用装置や半導体装置の製造を最先端の技術で支え、モノづくりのプロ集団として社会に貢献しています。",
 			"photo": "img49.png",
@@ -1300,7 +1341,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "30",
+			"id": "34",
 			"name": "株式会社日立プラントサービス",
 			"des": "確かな『技術力』で社会を支え、動かす総合エンジニアリング企業です。",
 			"photo": "img24.jpg",
@@ -1351,7 +1392,7 @@
 			"link4": "https://www.youtube.com/watch?v=Mc8_SOqwUMc"
 		},
 		{
-			"id": "31",
+			"id": "41",
 			"name": "株式会社日立プラントコンストラクション",
 			"des": "日立グループで数少ない、巨大なプラント工事を担う会社です",
 			"photo": "img57.jpg",
@@ -1396,7 +1437,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "32",
+			"id": "43",
 			"name": "株式会社日立マネジメントパートナー",
 			"des": "人事・財務関連業務に関するシェアードサービスとシステムソリューションサービスで、日立グループに貢献しています。",
 			"photo": "img66.jpg",
@@ -1442,7 +1483,7 @@
 			"link4": "https://secure-web.cisco.com/1byYhd5zNnjU-1KpmqenWL6Qgi_pz38EZQuFKdK8Js0e1ra1OU7R_5wHrYgrDfMLeK39ju7FBWyGKA7I0x3j9ZH7f6nbond6g4bjaeqtdiAJ29iXTABXm5SiID9U_MAwMVNfQI7ZqzQ6ZBcPRw6Wp0UWs3oMiZr0p3NjqgdWqtbvNGqoIffOIAQxzMj3TDLNxDwaVznEKn3mbhJgec459HK4JpBaGBd6o2CPHP-SaSXm8fLi5K2NmqbPtua4wCyPZtOvkM3RnDfFIp3_i1lkfQyD1x-lFSLqnYY7q2LSoZ6Ez4N-tlw-hU_pQq1Am5lDo/https%3A%2F%2Fconvert.jobtv.mynavi.jp%2Frlink%3Fuc%3D27s110190vod01"
 		},
 		{
-			"id": "33",
+			"id": "44",
 			"name": "株式会社関東日立",
 			"des": "日立グループ製品を提案販売から納入、保守メンテナンスまで一貫して提供します。充実した教育体系と勤務制度で、自分らしく働けます。",
 			"photo": "img65.jpg",
@@ -1488,7 +1529,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "34",
+			"id": "45",
 			"name": "関西日立株式会社",
 			"des": "関西を基盤に日立グループの電機製品を販売する電機専門商社です！【年間休日126日、年休消化率8割以上、フレックス・在宅OK等】企業様の製品・工場における品質向上や安定稼動、コスト削減、DX・環境問題対策を実現すべく付加価値あるビジネスを行っています。",
 			"photo": "img27.jpg",
@@ -1523,7 +1564,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "35",
+			"id": "46",
 			"name": "株式会社日立リアルエステートパートナーズ",
 			"des": "日立リアルエステートパートナーズは、日立グループのCRE戦略推進会社として、人々のQuality of Lifeの向上に貢献しています。",
 			"photo": "img71.jpg",
@@ -1574,7 +1615,7 @@
 			"link4": "none"
 		},
 		{
-			"id": "36",
+			"id": "50",
 			"name": "日立交通テクノロジー株式会社",
 			"des": "私たちは鉄道車両や鉄道関連システムの制作で培った確かな技術を礎に、鉄道分野における事業の幅を広めるとともに、社会・暮しに貢献する、魅力あふれる会社をめざしています。",
 			"photo": "img70.jpg",

@@ -1,249 +1,368 @@
 {
 	"items": [
 		{
+			"id": "0",
+			"name": "株式会社日立ソリューションズ西日本",
+			"photo": "img53.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optxz7d2A/info.html?corpId=211567",
+			"category": "digital_systems_services"
+		},
+		{
+			"id": "1",
+			"name": "株式会社日立ICTビジネスサービス",
+			"photo": "img04.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optIrOiDA/info.html?corpId=85796",
+			"category": "digital_systems_services"
+		},
+		{
 			"id": "2",
 			"name": "株式会社日立システムズエンジニアリングサービス",
 			"photo": "img00.jpg",
-			"entry": "-",
-			"category": "connective_industries"
+			"entry": "https://job.mynavi.jp/27/pc/optuyZbDA/info.html?corpId=39024",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "3",
 			"name": "株式会社日立システムズパワーサービス",
 			"photo": "img17.jpg",
-			"entry": "-",
-			"category": "energy"
+			"entry": "https://job.mynavi.jp/27/pc/optadxUmA/info.html?corpId=106366",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "4",
 			"name": "株式会社日立システムズ",
 			"photo": "img06.jpg",
-			"entry": "-",
-			"category": "mobility"
+			"entry": "https://job.mynavi.jp/27/pc/opt8it9fA/info.html?corpId=60422",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "5",
 			"name": "株式会社 日立ソリューションズ・クリエイト",
 			"photo": "img35.png",
-			"entry": "-",
+			"entry": "https://job.mynavi.jp/27/pc/optlk9M-A/info.html?corpId=75271",
 			"category": "digital_systems_services"
 		},
 		{
 			"id": "6",
 			"name": "株式会社日立システムズフィールドサービス",
 			"photo": "img55.jpg",
-			"entry": "-",
-			"category": "connective_industries"
+			"entry": "https://job.mynavi.jp/27/pc/optRHVq7A/info.html?corpId=230709",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "7",
 			"name": "株式会社北海道日立システムズ",
 			"photo": "img54.png",
-			"entry": "-",
+			"entry": "https://job.mynavi.jp/27/pc/opthxKGlA/info.html?corpId=65385",
 			"category": "digital_systems_services"
 		},
 		{
 			"id": "8",
 			"name": "株式会社日立社会情報サービス",
 			"photo": "img28.jpg",
-			"entry": "-",
-			"category": "corporate"
+			"entry": "https://job.mynavi.jp/27/pc/optcOmThA/info.html?corpId=39140",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "9",
 			"name": "日立チャネルソリューションズ株式会社",
 			"photo": "img53.png",
-			"entry": "-",
-			"category": "energy"
+			"entry": "https://job.mynavi.jp/27/pc/optTwXynA/info.html?corpId=271789",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "10",
 			"name": "日立ターミナルメカトロニクス株式会社",
 			"photo": "img74.jpg",
-			"entry": "-",
-			"category": "connective_industries"
+			"entry": "https://job.mynavi.jp/27/pc/optR0QOlA/info.html?corpId=271802",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "11",
 			"name": "株式会社日立情報通信エンジニアリング",
 			"photo": "img44.jpg",
-			"entry": "-",
-			"category": "mobility"
+			"entry": "https://job.mynavi.jp/27/pc/optXQUhHA/info.html?corpId=91868",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "12",
 			"name": "株式会社日立ソリューションズ",
 			"photo": "img34.png",
-			"entry": "-",
+			"entry": "https://job.mynavi.jp/27/pc/opttNkhWA/info.html?corpId=503",
 			"category": "digital_systems_services"
 		},
 		{
 			"id": "13",
 			"name": "株式会社九州日立システムズ",
 			"photo": "img73.jpg",
-			"entry": "-",
-			"category": "connective_industries"
+			"entry": "https://job.mynavi.jp/27/pc/optYy6svA/info.html?corpId=103660",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "14",
 			"name": "株式会社日立ソリューションズ・テクノロジー",
 			"photo": "img13.jpg",
-			"entry": "-",
+			"entry": "https://job.mynavi.jp/27/pc/opthEjK4A/info.html?corpId=282962",
 			"category": "digital_systems_services"
 		},
 		{
 			"id": "15",
 			"name": "日立ヴァンタラ株式会社",
 			"photo": "img69.jpg",
-			"entry": "-",
-			"category": "corporate"
+			"entry": "https://job.mynavi.jp/27/pc/opt7AyFlA/info.html?corpId=203209",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "16",
-			"name": "株式会社日立医薬情報ソリューションズ",
-			"photo": "img23.jpg",
-			"entry": "-",
-			"category": "connective_industries"
+			"name": "株式会社日立アドバンストシステムズ",
+			"photo": "img80.png",
+			"entry": "https://job.mynavi.jp/27/pc/optmLzeYA/info.html?corpId=113333",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "17",
-			"name": "株式会社日立ニコトランスミッション",
-			"photo": "img60.jpg",
-			"entry": "-",
-			"category": "energy"
+			"name": "株式会社日立ソリューションズ東日本",
+			"photo": "img81.png",
+			"entry": "https://job.mynavi.jp/27/pc/optZEfg2A/info.html?corpId=65821",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "18",
-			"name": "株式会社日立ビルシステム",
-			"photo": "img61.jpg",
-			"entry": "-",
-			"category": "mobility"
+			"name": "株式会社日立ドキュメントソリューションズ",
+			"photo": "img82.png",
+			"entry": "https://job.mynavi.jp/27/pc/optJe5IfA/info.html?corpId=105321",
+			"category": "digital_systems_services"
 		},
 		{
 			"id": "19",
-			"name": "株式会社日立パワーソリューションズ",
-			"photo": "img09.jpg",
-			"entry": "-",
+			"name": "株式会社 日立製作所",
+			"photo": "img83.png",
+			"entry": "https://job.mynavi.jp/27/pc/optkn10nA/info.html?corpId=4",
 			"category": "digital_systems_services"
 		},
 		{
 			"id": "20",
-			"name": "株式会社日立ハイテクフィールディング",
-			"photo": "img22.jpg",
-			"entry": "-",
+			"name": "株式会社日立医薬情報ソリューションズ",
+			"photo": "img23.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optpvSXhA/info.html?corpId=113322",
 			"category": "connective_industries"
 		},
 		{
 			"id": "21",
-			"name": "株式会社日立アイイーシステム",
-			"photo": "img05.png",
-			"entry": "-",
-			"category": "digital_systems_services"
+			"name": "株式会社日立ニコトランスミッション",
+			"photo": "img60.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optS3YPBA/info.html?corpId=231127",
+			"category": "connective_industries"
 		},
 		{
 			"id": "22",
-			"name": "株式会社日立ケーイーシステムズ",
-			"photo": "img48.jpg",
-			"entry": "-",
-			"category": "corporate"
+			"name": "株式会社日立ビルシステム",
+			"photo": "img61.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optwp66tA/info.html?corpId=91623",
+			"category": "connective_industries"
 		},
 		{
 			"id": "23",
-			"name": "株式会社日立産業制御ソリューションズ",
-			"photo": "img03.png",
-			"entry": "-",
+			"name": "株式会社日立パワーソリューションズ",
+			"photo": "img09.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optRM0jVA/info.html?corpId=53009",
 			"category": "connective_industries"
 		},
 		{
 			"id": "24",
-			"name": "株式会社日立インダストリアルプロダクツ",
-			"photo": "img46.jpg",
-			"entry": "-",
-			"category": "energy"
+			"name": "株式会社日立ハイテクフィールディング",
+			"photo": "img22.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optjMjJ0A/info.html?corpId=3427",
+			"category": "connective_industries"
 		},
 		{
 			"id": "25",
-			"name": "日立グローバルライフソリューションズ株式会社",
-			"photo": "img31.jpg",
-			"entry": "-",
-			"category": "mobility"
+			"name": "株式会社日立アイイーシステム",
+			"photo": "img05.png",
+			"entry": "https://job.mynavi.jp/27/pc/optaST6vA/info.html?corpId=206285",
+			"category": "connective_industries"
 		},
 		{
 			"id": "26",
-			"name": "株式会社日立ハイシステム２１",
-			"photo": "img15.jpg",
-			"entry": "-",
-			"category": "digital_systems_services"
+			"name": "株式会社日立ケーイーシステムズ",
+			"photo": "img48.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optA2jE4A/info.html?corpId=52667",
+			"category": "connective_industries"
 		},
 		{
 			"id": "27",
-			"name": "株式会社日立プラントメカニクス",
-			"photo": "img59.jpg",
-			"entry": "-",
+			"name": "株式会社日立産業制御ソリューションズ",
+			"photo": "img03.png",
+			"entry": "https://job.mynavi.jp/27/pc/opt72uX1A/info.html?corpId=205232",
 			"category": "connective_industries"
 		},
 		{
 			"id": "28",
-			"name": "株式会社 日立ハイテク",
-			"photo": "img21.jpg",
-			"entry": "-",
-			"category": "digital_systems_services"
+			"name": "株式会社日立インダストリアルプロダクツ",
+			"photo": "img46.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optW5ganA/info.html?corpId=238762",
+			"category": "connective_industries"
 		},
 		{
 			"id": "29",
-			"name": "株式会社日立ハイテクマニファクチャ＆サービス",
-			"photo": "img49.png",
-			"entry": "-",
-			"category": "corporate"
+			"name": "日立グローバルライフソリューションズ株式会社",
+			"photo": "img31.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/opt3uoSyA/os.html?corpId=2238",
+			"category": "connective_industries"
 		},
 		{
 			"id": "30",
-			"name": "株式会社日立プラントサービス",
-			"photo": "img24.jpg",
-			"entry": "-",
+			"name": "株式会社日立ハイシステム２１",
+			"photo": "img15.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optdmMsVA/info.html?corpId=65653",
 			"category": "connective_industries"
 		},
 		{
 			"id": "31",
-			"name": "株式会社日立プラントコンストラクション",
-			"photo": "img57.jpg",
-			"entry": "-",
-			"category": "energy"
+			"name": "株式会社日立プラントメカニクス",
+			"photo": "img59.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optfEV-XA/info.html?corpId=113326",
+			"category": "connective_industries"
 		},
 		{
 			"id": "32",
-			"name": "株式会社日立マネジメントパートナー",
-			"photo": "img66.jpg",
-			"entry": "-",
-			"category": "mobility"
+			"name": "株式会社 日立ハイテク",
+			"photo": "img21.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optduUZUA/info.html?corpId=1562",
+			"category": "connective_industries"
 		},
 		{
 			"id": "33",
-			"name": "株式会社関東日立",
-			"photo": "img65.jpg",
-			"entry": "-",
-			"category": "digital_systems_services"
+			"name": "株式会社日立ハイテクマニファクチャ＆サービス",
+			"photo": "img49.png",
+			"entry": "https://job.mynavi.jp/27/pc/optSgiTvA/info.html?corpId=75657",
+			"category": "connective_industries"
 		},
 		{
 			"id": "34",
-			"name": "関西日立株式会社",
-			"photo": "img27.jpg",
-			"entry": "-",
+			"name": "株式会社日立プラントサービス",
+			"photo": "img24.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optdv6GWA/os.html?corpId=203005",
 			"category": "connective_industries"
 		},
 		{
 			"id": "35",
-			"name": "株式会社日立リアルエステートパートナーズ",
-			"photo": "img71.jpg",
-			"entry": "-",
-			"category": "digital_systems_services"
+			"name": "株式会社日立ハイテクアナリシス",
+			"photo": "img84.png",
+			"entry": "https://job.mynavi.jp/27/pc/optKv5qQA/info.html?corpId=113325",
+			"category": "connective_industries"
 		},
 		{
 			"id": "36",
+			"name": "株式会社日立ハイテクソリューションズ",
+			"photo": "img85.png",
+			"entry": "https://job.mynavi.jp/27/pc/optJe5IfA/info.html?corpId=105321",
+			"category": "connective_industries"
+		},
+		{
+			"id": "37",
+			"name": "株式会社日立産機グリーンテック",
+			"photo": "img86.png",
+			"entry": "https://job.mynavi.jp/27/pc/optF1FRmA/info.html?corpId=233668",
+			"category": "connective_industries"
+		},
+		{
+			"id": "38",
+			"name": "株式会社日立建設設計",
+			"photo": "img87.png",
+			"entry": "https://job.mynavi.jp/27/pc/optYxfofA/info.html?corpId=231837",
+			"category": "connective_industries"
+		},
+		{
+			"id": "39",
+			"name": "株式会社日立産機システム",
+			"photo": "img88.png",
+			"entry": "https://job.mynavi.jp/27/pc/opt87CLdA/info.html?corpId=67848",
+			"category": "connective_industries"
+		},
+		{
+			"id": "40",
+			"name": "株式会社 日立製作所",
+			"photo": "img83.png",
+			"entry": "https://job.mynavi.jp/27/pc/optkn10nA/info.html?corpId=4",
+			"category": "connective_industries"
+		},
+		{
+			"id": "41",
+			"name": "株式会社日立プラントコンストラクション",
+			"photo": "img57.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optE-k-4A/info.html?corpId=205605",
+			"category": "energy"
+		},
+		{
+			"id": "42",
+			"name": "株式会社 日立製作所",
+			"photo": "img83.png",
+			"entry": "https://job.mynavi.jp/27/pc/optkn10nA/info.html?corpId=4",
+			"category": "energy"
+		},
+		{
+			"id": "43",
+			"name": "株式会社日立マネジメントパートナー",
+			"photo": "img66.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optvGTLsA/info.html?corpId=110190",
+			"category": "corporate"
+		},
+		{
+			"id": "44",
+			"name": "株式会社関東日立",
+			"photo": "img65.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optjiO9pA/info.html?corpId=216356",
+			"category": "corporate"
+		},
+		{
+			"id": "45",
+			"name": "関西日立株式会社",
+			"photo": "img27.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/opt2winoA/info.html?corpId=76905",
+			"category": "corporate"
+		},
+		{
+			"id": "46",
+			"name": "株式会社日立リアルエステートパートナーズ",
+			"photo": "img71.jpg",
+			"entry": "https://job.mynavi.jp/27/pc/optkO7G-A/info.html?corpId=113328",
+			"category": "corporate"
+		},
+		{
+			"id": "47",
+			"name": "株式会社日立アカデミー",
+			"photo": "img90.png",
+			"entry": "https://job.mynavi.jp/27/pc/optJe5IfA/info.html?corpId=105321",
+			"category": "corporate"
+		},
+		{
+			"id": "48",
+			"name": "株式会社日立保険サービス",
+			"photo": "img91.png",
+			"entry": "https://job.mynavi.jp/27/pc/optJe5IfA/info.html?corpId=105321",
+			"category": "corporate"
+		},
+		{
+			"id": "49",
+			"name": "株式会社 日立製作所",
+			"photo": "img83.png",
+			"entry": "https://job.mynavi.jp/27/pc/optkn10nA/info.html?corpId=4",
+			"category": "corporate"
+		},
+		{
+			"id": "50",
 			"name": "日立交通テクノロジー株式会社",
 			"photo": "img70.jpg",
-			"entry": "-",
-			"category": "digital_systems_services"
+			"entry": "https://job.mynavi.jp/27/pc/optJe5IfA/info.html?corpId=105321",
+			"category": "mobility"
+		},
+		{
+			"id": "51",
+			"name": "株式会社 日立製作所",
+			"photo": "img83.png",
+			"entry": "https://job.mynavi.jp/27/pc/optkn10nA/info.html?corpId=4",
+			"category": "mobility"
 		}
 	]
 }
