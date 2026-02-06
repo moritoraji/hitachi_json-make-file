@@ -296,69 +296,76 @@
 		},
 		{
 			"id": "42",
+			"name": "日立エナジージャパン株式会社",
+			"photo": "img89.png",
+			"entry": "https://job.mynavi.jp/27/pc/optZU3qtA/info.html?corpId=267793",
+			"category": "energy"
+		},
+		{
+			"id": "43",
 			"name": "株式会社 日立製作所",
 			"photo": "img83.png",
 			"entry": "https://job.mynavi.jp/27/pc/optkn10nA/info.html?corpId=4",
 			"category": "energy"
 		},
 		{
-			"id": "43",
+			"id": "44",
 			"name": "株式会社日立マネジメントパートナー",
 			"photo": "img66.jpg",
 			"entry": "https://job.mynavi.jp/27/pc/optvGTLsA/info.html?corpId=110190",
 			"category": "corporate"
 		},
 		{
-			"id": "44",
+			"id": "45",
 			"name": "株式会社関東日立",
 			"photo": "img65.jpg",
 			"entry": "https://job.mynavi.jp/27/pc/optjiO9pA/info.html?corpId=216356",
 			"category": "corporate"
 		},
 		{
-			"id": "45",
+			"id": "46",
 			"name": "関西日立株式会社",
 			"photo": "img27.jpg",
 			"entry": "https://job.mynavi.jp/27/pc/opt2winoA/info.html?corpId=76905",
 			"category": "corporate"
 		},
 		{
-			"id": "46",
+			"id": "47",
 			"name": "株式会社日立リアルエステートパートナーズ",
 			"photo": "img71.jpg",
 			"entry": "https://job.mynavi.jp/27/pc/optkO7G-A/info.html?corpId=113328",
 			"category": "corporate"
 		},
 		{
-			"id": "47",
+			"id": "48",
 			"name": "株式会社日立アカデミー",
 			"photo": "img90.png",
 			"entry": "https://job.mynavi.jp/27/pc/optJe5IfA/info.html?corpId=105321",
 			"category": "corporate"
 		},
 		{
-			"id": "48",
+			"id": "49",
 			"name": "株式会社日立保険サービス",
 			"photo": "img91.png",
 			"entry": "https://job.mynavi.jp/27/pc/optJe5IfA/info.html?corpId=105321",
 			"category": "corporate"
 		},
 		{
-			"id": "49",
+			"id": "50",
 			"name": "株式会社 日立製作所",
 			"photo": "img83.png",
 			"entry": "https://job.mynavi.jp/27/pc/optkn10nA/info.html?corpId=4",
 			"category": "corporate"
 		},
 		{
-			"id": "50",
+			"id": "51",
 			"name": "日立交通テクノロジー株式会社",
 			"photo": "img70.jpg",
 			"entry": "https://job.mynavi.jp/27/pc/optJe5IfA/info.html?corpId=105321",
 			"category": "mobility"
 		},
 		{
-			"id": "51",
+			"id": "52",
 			"name": "株式会社 日立製作所",
 			"photo": "img83.png",
 			"entry": "https://job.mynavi.jp/27/pc/optkn10nA/info.html?corpId=4",

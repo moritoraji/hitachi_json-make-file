@@ -14,7 +14,7 @@ const dest_lp_file = path.resolve(path.join('dest', 'list-under.json')); //下�
 // エクセル範囲の設定
 const EXCEL_START_ROW = 2;  // データ開始行
 const EXCEL_START_ROW_INDEX = EXCEL_START_ROW - 1;
-const EXCEL_END_ROW = 53;   // データ終了行
+const EXCEL_END_ROW = 54;   // データ終了行
 const EXCEL_RANGE = `A${EXCEL_START_ROW}:M${EXCEL_END_ROW}`;  // エクセル範囲
 
 // true/falseの判定（空の場合はtrue、falseの記載があればfalse、それ以外はtrue）
